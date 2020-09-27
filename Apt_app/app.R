@@ -21,7 +21,7 @@ library(knitr)
 library(DT)
 library(leaflet)
 library(plotly)
-source("apt_functions.r")
+source("apt_functions.R")
 
 
 ui <- dashboardPage(
